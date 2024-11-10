@@ -1,0 +1,10 @@
+2024-09-18 22:12:09,250 INFO  [Log] The home page has been opened successfully. 
+2024-09-18 22:12:11,121 INFO  [Log] Teams block displayed successfully. 
+2024-09-18 22:12:11,666 INFO  [Log] Locations block displayed successfully. 
+2024-09-18 22:12:12,218 INFO  [Log] Life at Insider block displayed successfully. 
+2024-09-18 22:12:30,114 INFO  [Log] Job list displayed successfully. 
+2024-09-18 22:12:30,147 INFO  [Log] Department filter verification passed: Quality Assurance. 
+2024-09-18 22:12:30,168 INFO  [Log] Location filter verification passed: Istanbul, Turkey. 
+2024-09-18 22:12:38,491 INFO  [Log] Redirected to Lever Application form page successfully. 
+2024-09-18 22:12:38,704 INFO  [Log] InsiderTest()is SUCCESSED! 
+2024-09-18 22:12:38,709 INFO  [Log] Process finished. 
