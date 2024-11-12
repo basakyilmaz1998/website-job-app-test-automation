@@ -1,4 +1,4 @@
-Jobs.lever.co Test Automation Project
+Website Job App Test Automation Project
 This is a software test automation for the application form, created via the Lever company.
 The page will remain open until August 15, 2024.
 
@@ -12,11 +12,11 @@ Test Classes
 'EndToEndTest.java'
 
 This scenario tests:
-1. Visit https://useinsider.com/ and verify the homepage loads.
-2. Select “Company” > “Careers” in the navigation bar and ensure the Career page and its Locations, Teams, Life at Insider sections load.
-3. Go to https://useinsider.com/careers/quality-assurance/, click “See all QA jobs”, filter by Location: Istanbul, Turkey and Department: Quality Assurance, and check job list presence.
-4. Verify all job listings have Position, Department, and Location fields containing “Quality Assurance” and “Istanbul, Turkey”.
-5. Click “View Role” and confirm redirection to the Lever Application form.
+1. Visit website and verify the homepage loads.
+2. Select “Company” > “Careers” in the navigation bar and ensure the page and sections load.
+3. Filter by location and department, check job list presence.
+4. Verify job listings have Position, Department, and Location fields containing selected items. 
+5. Click “View Role” and confirm redirection.
 
 Built With
 Programming Languages: Java
