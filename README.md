@@ -1,6 +1,5 @@
 Website Job App Test Automation Project
 This is a software test automation for the application form, created via the Lever company.
-The page will remain open until August 15, 2024.
 
 Prerequisites
 chromedriver.exe
